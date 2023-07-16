@@ -1,0 +1,35 @@
+body {
+    background-color: #ECF8F9;
+}
+
+.container {
+    flex-grow: 0;
+}
+
+.my-pic {
+    height: 200px ;
+    width: 200px;
+    border-radius: 50%;
+}
+.center {
+    display: flex;
+    justify-content: center;
+
+}
+.hero{
+    /* background-image: url("./assets/images/back-img.png");
+    color: #EEEEEE;
+    width: 100%; */
+    background-color: #068DA9;
+    color: #ECF8F9;
+    display: flex;
+    justify-content: center;
+}
+
+.light-blue {
+    background-color: #ECF8F9;
+}
+
+.centeralign {
+    text-align: center;
+}
